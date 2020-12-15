@@ -14,3 +14,9 @@
 1      -       2       -       3
     (git add)     (git commit)
 
+pwd - ubicación
+mkdir - crear carpeta
+touch - crear archivo
+cd - para moverse entre carpetas
+cd .. - (subir de nivel)
+ls - listar
