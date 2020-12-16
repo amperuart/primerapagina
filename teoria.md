@@ -26,5 +26,5 @@ git add .
 git commit -m ""
 git log
 git status
-git ignore
+.gitignore
 
