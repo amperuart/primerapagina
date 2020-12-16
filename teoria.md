@@ -24,7 +24,15 @@ ls - listar
 git init
 git add .
 git commit -m ""
-git log
+git log --oneline
 git status
 .gitignore
+
+clear
+
+git checkout ######
+git checkout master
+
+git branch
+    x default siempre se crea master
 
