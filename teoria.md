@@ -20,3 +20,6 @@ touch - crear archivo
 cd - para moverse entre carpetas
 cd .. - (subir de nivel)
 ls - listar
+
+git add .
+git commit -m ""
