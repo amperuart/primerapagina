@@ -28,3 +28,5 @@ git log
 git status
 .gitignore
 
+git log --oneline --decorate --graph --all
+
