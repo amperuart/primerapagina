@@ -21,5 +21,10 @@ cd - para moverse entre carpetas
 cd .. - (subir de nivel)
 ls - listar
 
+git init
 git add .
 git commit -m ""
+git log
+git status
+git ignore
+
