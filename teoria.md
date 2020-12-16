@@ -28,9 +28,7 @@ git log --oneline
 git status
 .gitignore
 
-<<<<<<< HEAD
 git log --oneline --decorate --graph --all
-=======
 clear
 
 git checkout ######
@@ -38,5 +36,7 @@ git checkout master
 
 git branch
     x default siempre se crea master
->>>>>>> development
+
+git merge development
+    desde el master por ejemplo
 
