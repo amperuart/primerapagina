@@ -14,6 +14,9 @@
 1      -       2       -       3
     (git add)     (git commit)
 
+git config user.name "usuario"
+git config user.email "correo"
+
 pwd - ubicación
 mkdir - crear carpeta
 touch - crear archivo
@@ -26,16 +29,19 @@ git add .
 git commit -m ""
 git log --oneline
 git status
+
 .gitignore
 
-git log --oneline --decorate --graph --all
 clear
 
+git log --oneline --decorate --graph --all
 git checkout ######
-git checkout master
+    para volver en el tiempo
 
 git branch
     x default siempre se crea master
+git checkout NOMBRE
+    para cambiar de branch
 
 git merge development
     desde el master por ejemplo
