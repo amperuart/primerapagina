@@ -46,3 +46,5 @@ git checkout NOMBRE
 git merge development
     desde el master por ejemplo
 
+github
+    git push -u origin master
