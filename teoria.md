@@ -48,3 +48,6 @@ git merge development
 
 github
     git push -u origin master
+        O branch en general
+    git pull origin BRANCH
+    git clone LINK
